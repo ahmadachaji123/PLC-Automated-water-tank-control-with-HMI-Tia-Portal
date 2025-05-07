@@ -1,0 +1,21 @@
+þÿÿÿç###id###VisulizationRootBrowsableId###TargetIdNameDisplayName-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIds###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreCommentDatatypeValue###SearchFilterIdsTitleLanguageVersionConstant nameEvent class###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentNetwork titleLADFBD CodeAddressInstance DBAuthorFamilyUser-defined IDText.0Text.1Text.2
+AlarmClassAcknowledgementModelIdEmailAddressAcknowledgedText
+ComingText	GoingTextAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
+ServerName
+PortNumberWindowsDomain	CycleUnit	CycleTimeNumber	ShortName
+LogoutTimeDataType	BackColor	GridColor
+LineColor1
+LineColor2OperatableAreaColor
+VisibilityTagAddressPanelInfoAcquisitionTriggerModeAcquisitionCycleConfirmationTypeCodingPlcNameControllerTagLimitHighConstantLimitHighLowConstantLimitLowHighConstantLimitLowConstant	JobNumber
+StartValueCommonAlarmClassStationNamePartnerNameNodeNameAddressAccessMode
+ConnectionAcknowledgementBitAddressPlcAcknowledgementBitAddressTriggerBitAddress	AlarmTextDelayTimeUnitHysteresisMode	LimitMode
+LimitValue
+TriggerTagAboveUpperLimitColorAdaptPicture
+AutoSizingBackFillStyleBelowLowerLimitColorBorderColor	EdgeStyleFlashing
+FocusColorLayerModeScrollBarOrientationTransparentColorBorderBackColorCaptionColorCaptionFontCaptionTextCenterColorDangerLowerRangeColorDangerRangeColor	DialColorDialFillStyleInnerDialColorNormalRangeColorPointerColorScaleLabelColorScaleLabelFontScaleTickColor	UnitColorUnitFontUnitTextWarningLowerRangeColorWarningRangeColorAlarmLowerLimitColorAlarmUpperLimitColorBarBackColorBarEdgeStyleBarOrientationFont	ForeColor
+ScaleColorScalePositionSegmentColoringUnitWarningLowerLimitColorWarningUpperLimitColor
+BlinkColorFillColorModeFlipRotationTemplateColorEndStyle	FillStyleLineEndShapeStyle
+StartStyleStyleFirstGradientColorHorizontalAlignmentHorizontalPictureAlignmentMiddleGradientColorPictureAutoSizingSecondGradientColorTextOffTextOnTextOrientationVerticalAlignmentVerticalPictureAlignment
+DataFormatFormatPatternProcessValueAlarmSourceButtonBackColorButtonBackFillStyleButtonBarStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTime
+FilterTextGridlineColorSelectionBackColorSelectionForeColorSortByTimeDirectionTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorViewTypeEvenRowBackColorSelectBackColorSelectForeColorBarColorBorderBrightColor3DBorderInnerStyle3DBorderOuterStyle3DBorderShadeColor3DCaption
+LabelColorPositionFontThumbBackColor	TickStylePropertyNameTagValueForPropertyTagPageUITypeEditorBitPositionUITypeEditorStartvalueUITypeEditorEndvalueRangeFromToUITypeEditorTagExpression	FunctionsTextAuthorizationNetwork commentAcknowledgementTag
